@@ -1,6 +1,7 @@
-## Your Name
+## Nadav Rosenberg
 
-A sentence about who and what you are. Then a sentence about what you've achieved. And then a sentence about what you're looking for: what you would ideally be doing, with whom and in what environment.
+Expereiced sales leader looking for technical cofounder to start a new venture. Been thorugh makers academy to learn how to code. 
+(A sentence about who and what you are. Then a sentence about what you've achieved. And then a sentence about what you're looking for: what you would ideally be doing, with whom and in what environment.)
 
 ## Skills
 
@@ -42,7 +43,11 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 
 ## Experience
 
-**Company Name** (start_date to end_date)    
-*Your job title*  
-**Company Name** (start_date to end_date)   
-*Your job title*  
+**Taboola** (September 2014 to Present)    
+*Advisor*  
+**Taboola** (June 2012 to September 2014)    
+*Europe General Manager*  
+**Groupon** (May 2010 to June 2012)   
+*Regional Director*  
+**McKinsey** (October 2008 to April 2010)   
+*ReAssociate*
