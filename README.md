@@ -5,6 +5,14 @@ Expereiced sales leader looking for technical cofounder to start a new venture. 
 
 ## Skills
 
+Technology | Language/Framework/Tool
+-----------|------------------------
+**Front End** | HTML5, CSS, Bootstrap, Javascript, jQuery, Angular.js
+**Back End** | Ruby, Rails, Sinatra, Node.js
+**Databases & ORMs** | PostgreSQL, SQL, ActiveRecord, Data Mapper
+**Testing** | RSpec, Jasmine, Cucumber, Karma, Protractor
+**Other** | APIs, Git/Github, Waffle.io
+
 #### This Skill
 
 Descriptive paragraph of how capable you are at this skill and, if relevant, how it has developed.
